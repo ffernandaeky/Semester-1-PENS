@@ -1,6 +1,6 @@
 # Semester 1 Project
 
-This is my first semester project while studying at the Surabaya State Electronics Polytechnic Applied Data Science study program
+This is my first semester project while studying at the Electronics Engineering Polytechnic Institute of Surabaya Applied Data Science study program
 Several Project Description
 
 - Karya Tulis Ilmiah Quran

@@ -8,12 +8,12 @@ Several Project Description
 
 To run several libraries
 
-  pip install pandas
+    pip install pandas
 
-  pip install seaborn
+    pip install seaborn
 
-  pip install numpy
+    pip install numpy
 
-  pip install matplotlib
+    pip install matplotlib
 
-  pip install sklearn
+    pip install sklearn
